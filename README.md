@@ -1,7 +1,5 @@
 # Applied Machine Learning (5294APML6Y): Flight Delay Prediction
 
-![ScreenShot](https://raw.github.com/jah377/NLP_GeneralAssembly/main/report/github_wordcloud.png)
-
 This repository contains code corresponding to the analyses presented in the Project Symposium for the Applied Machine Learning course, in partial fulfillment for the degree of MSc. in Data Science at the University of Amsterdam.
 
 ## Executive Summary
